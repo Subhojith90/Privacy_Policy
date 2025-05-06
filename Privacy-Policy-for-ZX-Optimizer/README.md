@@ -1,13 +1,13 @@
-# Privacy-Policy-for-Quanti-Composer
+# Privacy-Policy-for-ZX-Optimizer
 **Privacy Policy**
-**Quanti Composer**
-**Effective Date: 30th July 2024**
+**ZX Optimizer**
+**Effective Date: 6th July 2025**
 
 **Introduction**
-Thank you for using Quanti Composer ("the App"). We are committed to protecting your privacy. This privacy policy ("Policy") explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this Policy carefully to understand our views and practices regarding your information and how we will treat it.
+Thank you for using ZX Optimizer ("the App"). We are committed to protecting your privacy. This privacy policy ("Policy") explains how we collect, use, disclose, and safeguard your information when you use our App. Please read this Policy carefully to understand our views and practices regarding your information and how we will treat it.
 
 **1. Information We Do Not Collect**
-Quanti Composer does not collect, store, or share any personal information. Specifically, the App:
+ZX Optimizer does not collect, store, or share any personal information. Specifically, the App:
 - Does not collect or store any personal data, including but not limited to names, email addresses, phone numbers, or physical addresses.
 - Does not access or collect data from your device, such as contacts, photos, or files.
 - Does not collect or store location data.
@@ -25,7 +25,7 @@ Quanti Composer does not collect, store, or share any personal information. Spec
 - The App does not integrate with or use any third-party services that could collect or access your data.
 
 **4. App Functionality**
-Quanti Composer is designed for educational and research purposes. It allows users to create their own quantum circuits and generates Python code for the developed quantum circuit. The App:
+ZX Optimizer is designed for educational and research purposes. It allows users to create their own quantum circuits and generates Python code for the developed quantum circuit. The App:
 - Provides tools for building quantum circuits.
 - Generates Python code based on the user's input.
 - Offers analysis of the created quantum circuits.
